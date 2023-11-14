@@ -37,8 +37,6 @@ class Order:
 def init(self, order_id, customer, cart, total_amount):
 
 self.order_id = order_id
-
 self.customer = customer
-
 self. Cart
 self. total_amount=total_amount
